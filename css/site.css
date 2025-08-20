@@ -1,0 +1,62 @@
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20211110/pngtree-latar-foto-estetik-polos-image_915537.png');
+    background-size: cover; /* Ajusta o tamanho da imagem */
+    background-repeat: no-repeat; /* Evita repetição */
+}
+
+    input,button {
+    width: 100%;
+    margin:10px 0;
+    padding:10px 0;
+    font-size:70px;
+}
+body{
+    font-family:'Times New Roman',Times, serif;
+    background-color: rgb(255, 229, 212);
+    display:flex;
+    justify-content: center;
+    padding-top: 50px;
+  color: rgb(0, 0, 0);  
+}
+.container{
+background-color:#00000000;
+padding:30px;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(0,0,1,1.2);
+width: 600px;
+text-align: center;
+}
+
+.tabela{
+background-color:#00000000;
+padding:30px;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(0,0,1,1.2);
+width: 600px;
+text-align: center;
+}
+
+.nao-gosto{
+background-color:#00000000;
+padding:30px;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(0,0,1,1.2);
+width: 600px;
+text-align: center;
+
+}
+.filmes{
+background-color:#00000000;
+padding:30px;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(0,0,1,1.2);
+width: 600px;
+text-align: center;
+}
+
+button{
+    background-color: rgb(124, 123, 126);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    cursor:pointer;
+}
