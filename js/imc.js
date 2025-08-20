@@ -1,6 +1,4 @@
 //javascript
-
-
 function calcularIMC(){//Pega a função  de calcular IMC do index.html
     const peso = parseFloat(document.getElementById("peso").value);//pega as variaveis que ja foram declaradas no index
     const altura = parseFloat(document.getElementById("altura").value);//pega as variaveis que ja foram declaradas no index
